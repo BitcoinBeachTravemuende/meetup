@@ -25,6 +25,7 @@ const enConfig: LocaleSpecificConfig<DefaultTheme.Config & LocaleConfig> = {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/meetup/",
   lang: "de",
   appearance: true,
   locales: {

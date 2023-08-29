@@ -20,17 +20,20 @@ const props = defineProps<{
   <div>
     <Headline :title="title" />
     <div 
-    class="grid grid-cols-3 gap-4"
+    class="grid grid-cols-2 sm:grid-cols-3 gap-4"
     >
     
       <div
       class="aspect-square border-8 
-      border-gray-200 dark:border-white"
+      border-gray-200 
+      dark:border-white 
+      hover:border-orange-400 hover:scale-105
+      ease group"
       v-for="inspiration in inspirations"
       :key="inspiration.source"
       >
       <img 
-      class="object-cover w-full h-full"
+      class="object-cover w-full h-full grayscale group-hover:grayscale-0 ease"
       :src="inspiration.source" :alt="inspiration.alt" 
        />
     </div>

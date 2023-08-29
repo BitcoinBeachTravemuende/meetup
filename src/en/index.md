@@ -10,13 +10,13 @@ content:
     text: 2th September 2023, 7pm, aja Hotel Lounge
 
 inspirations:
-  - source: '/insp_0.jpg'
+  - source: './insp_0.jpg'
     alt: ''
-  - source: '/insp_1.jpg'
+  - source: './insp_1.jpg'
     alt: ''
-  - source: '/insp_2.jpg'
+  - source: './insp_2.jpg'
     alt: ''
-  - source: '/insp_3.jpg'
+  - source: './insp_3.jpg'
     alt: ''
 
 ---

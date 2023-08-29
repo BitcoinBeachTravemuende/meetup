@@ -15,3 +15,11 @@ html.dark body {
   background-image: url('/wave-dark.svg');
   background-color: black;
 }
+
+@layer components {
+
+  .ease {
+    @apply transition duration-300 ease-in-out;
+  }
+
+}
