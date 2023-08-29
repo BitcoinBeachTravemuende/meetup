@@ -1,0 +1,17 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+body {
+  background-image: url('/wave.svg');
+  background-repeat: repeat;
+  background-color: white;
+}
+
+html.dark body {
+  background-image: url('/wave-dark.svg');
+  background-color: black;
+}
