@@ -2,21 +2,25 @@
 layout: false
 
 content:
-  - title: What's about?
+  - title: What's about
     text: Bitcoin Beach Travemünde Meetup is a free organized meetup in Lübeck-Travemünde for anybody who is interested in Bitcoin. Everybody is welcome!
-  - title: Who?
+  - title: Who
     text: Hodler, Trader, Noobies, Techies, Devs, ice-bath lovers, you?
   - title: Next meetup
     text: 2th September 2023, 7pm, aja Hotel Lounge
 
 inspirations:
   - source: './insp_0.jpg'
-    alt: ''
+    alt: 'First meetup 1th July 2023'
   - source: './insp_1.jpg'
-    alt: ''
+    alt: 'Sticker'
   - source: './insp_2.jpg'
-    alt: ''
+    alt: 'Bitcoin Beach'
   - source: './insp_3.jpg'
-    alt: ''
+    alt: 'Somewhere in nowhere'
+  - source: './insp_4.jpg'
+    alt: 'Spotted at the second meetup'
+  - source: './insp_5.jpg'
+    alt: 'Ready to print: Lighthouse Travemuende'
 
 ---
