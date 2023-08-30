@@ -10,17 +10,17 @@ content:
     text: 2th September 2023, 7pm, aja Hotel Lounge
 
 inspirations:
-  - source: './insp_0.jpg'
+  - source: '/insp_0.jpg'
     alt: 'First meetup 1th July 2023'
-  - source: './insp_1.jpg'
+  - source: '/insp_1.jpg'
     alt: 'Sticker'
-  - source: './insp_2.jpg'
+  - source: '/insp_2.jpg'
     alt: 'Bitcoin Beach'
-  - source: './insp_3.jpg'
+  - source: '/insp_3.jpg'
     alt: 'Somewhere in nowhere'
-  - source: './insp_4.jpg'
+  - source: '/insp_4.jpg'
     alt: 'Spotted at the second meetup'
-  - source: './insp_5.jpg'
+  - source: '/insp_5.jpg'
     alt: 'Ready to print: Lighthouse Travemuende'
 
 ---
