@@ -1,7 +1,6 @@
 <script setup lang="ts">
 
 import 'leaflet/dist/leaflet.css'
-import * as L from 'leaflet'
 
 import { ref, onMounted } from "vue";
 
@@ -11,7 +10,8 @@ const _ = defineProps<{
 
 const mapRef = ref()
 
-onMounted(() => {
+onMounted(async () => {
+    const L = (await import('leaflet')).default;
     const map = L.map(mapRef.value).setView([53.9625, 10.8788], 14)
 
     const host = 'https://{s}.tile.osm.org/{z}/{x}/{y}.png';
