@@ -28,19 +28,32 @@ export default defineConfig({
   base: "/meetup/",
   lang: "de",
   appearance: true,
+  head: [
+    [ 'link', { rel: 'icon', href: './favicon.ico' } ],
+    [ 'link', { rel: 'apple-touch-icon-precomposed', sizes: "144x144", href: './apple-touch-icon-144x144.png' } ],
+    [ 'link', { rel: 'apple-touch-icon-precomposed', sizes: "152x152", href: './apple-touch-icon-152x152.png' } ],
+    [ 'link', { rel: 'apple-touch-icon-precomposed', sizes: "16x16", href: './favicon-16x16.png' } ],
+    [ 'link', { rel: 'apple-touch-icon-precomposed', sizes: "32x32", href: './favicon-32x32.png' } ],
+    [ 'meta', { name: 'msapplication-TileColor', content: '#FFFFFF' } ],
+    [ 'meta', { name: 'msapplication-TileImage', content: './mstile-144x144.png' } ],
+    [ 'meta', { name: 'application-name', content: 'Bitcoin Beach Travemünde Meetup' } ],
+    [ 'meta', { property: 'og:site', content: 'website' } ],
+    [ 'meta', { name: 'twitter:card', content: 'summary_large_image' } ],
+    [ 'meta', { name: 'twitter:creator', content: '@BTravemuende' } ],
+  ],
   locales: {
     root: {
       lang: "de",
       label: "Deutsch",
       title: "Bitcoin Beach Travemünde Meetup",
-      description: "Meetup für Bitcoiners von Bitcoiners",
+      description: "Meetup für Bitcoiner in Lübeck-Travemünde",
       ...deConfig
     },
     en: {
       lang: "en",
       label: "English",
-      title: "Bitcoin Beach Travemünde (Germany) Meetup",
-      description: "Meetup for Bitcoiners from Bitcoiners",
+      title: "Bitcoin Beach Travemünde Meetup",
+      description: "Meetup for Bitcoiners in Lübeck-Travemünde (Germany)",
       
       ...enConfig
     },
