@@ -7,8 +7,9 @@ export type TextContent = {
   text: string
 }
 
-const props = defineProps<{
+const _ = defineProps<{
   contents: TextContent[]
+  class?: string
 }>()
 
 </script>
@@ -18,7 +19,8 @@ const props = defineProps<{
   <div
     v-for="content in contents"
     :key="content.title"
-    class="item"
+    class="item" 
+    :class="class"
   >
     <TextContentComponent
       :title="content.title"

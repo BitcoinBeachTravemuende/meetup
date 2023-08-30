@@ -5,8 +5,9 @@ import VPNavBarTranslations from 'vitepress/dist/client/theme-default/components
 import VPSocialLinks from 'vitepress/dist/client/theme-default/components/VPSocialLinks.vue'
 import TextContents from './component/TextContents.vue'
 import Inspirations from './component/Inspirations.vue'
+import Map from './component/Map.vue'
 
-const { site, lang, theme, frontmatter: fm } = useData()
+const { theme, frontmatter: fm } = useData()
 
 
 </script>
@@ -16,7 +17,7 @@ const { site, lang, theme, frontmatter: fm } = useData()
     <div class="mx-auto h-full items-stretch flex flex-col max-w-[600px] bg-black rounded-lg ">
       
       <div class="relative ">
-        <img src="/beach.jpg" class="w-full" />
+        <img src="/beach.jpg" class="w-full rounded-t-lg" />
         <nav class="absolute right-0 top-4 h-12 bg-white dark:bg-black rounded-l-xl flex items-center px-2 bg-opacity-50 dark:bg-opacity-40">
             <VPNavBarTranslations class="!flex !items-center h-4" />
             <VPSwitchAppearance   />
@@ -29,24 +30,18 @@ const { site, lang, theme, frontmatter: fm } = useData()
 
 
       
-      <div class="px-8 bg-white dark:bg-gray-700 mx-2 rounded-md flex-grow pb-12 mb-2">
+      <div class=" bg-white dark:bg-gray-700 mx-2 rounded-md flex-grow pb-12 mb-2">
 
-        <TextContents v-if="fm.content" :contents="fm.content" class="w-full" />
+        <TextContents v-if="fm.content" :contents="fm.content" class="w-full px-8" />
+
+        <Map class="mt-6" />
         
         <Inspirations 
           v-if="fm.inspirations" 
           :inspirations="fm.inspirations" 
           :title="theme.contentImpressions" 
-          class="w-full" />
+          class="w-full px-8" />
       </div>
-
-
-      
-
-
-      <!-- <Content /> -->
-      
-    
 
     </div>
 

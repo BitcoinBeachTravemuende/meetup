@@ -9,9 +9,10 @@ export type Inspiriation = {
   alt?: string
 }
 
-const props = defineProps<{
+const _ = defineProps<{
   title: string
   inspirations: Inspiriation[]
+  class?: string
 }>()
 
 const fullscreen = ref('')
@@ -21,7 +22,7 @@ const fullscreen = ref('')
 
 
 <template>
-  <div class="relative">
+  <div class="relative" :class="class">
     <Headline :title="title" />
     <div 
     class="grid grid-cols-2 sm:grid-cols-3 gap-4"
