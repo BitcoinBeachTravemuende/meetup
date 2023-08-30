@@ -44,9 +44,9 @@ const fullscreen = ref('')
   </div>
   </div>
   </div>
-    <button v-if="fullscreen"  class="fixed inset-0 dark:bg-black bg-white flex items-center justify-center" @click="fullscreen = ''">
+    <button v-if="fullscreen"  class="fixed inset-0 w-full h-full dark:bg-black bg-white flex items-center justify-center " @click="fullscreen = ''">
 
-        <img :src="fullscreen" class="peer object-scale-down"/>
+        <img :src="fullscreen" class="peer object-scale-down w-full h-full"/>
 
         <div class="absolute right-6 top-6 p-2 ease dark:bg-white dark:text-black bg-gray-400 text-white
         peer-hover:opacity-100 peer-hover:bg-orange-400 
