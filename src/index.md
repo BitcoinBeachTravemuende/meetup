@@ -7,7 +7,7 @@ content:
   - title: Wer
     text: Hodler, Trader, Noobies, Techies, Devs, Eisbader, Du?
   - title: Nächstes Meetup
-    text: 02. September 2023, 19:00 Uhr, aja Hotel Lounge
+    text: 14. Oktober 2023, 19:00 Uhr, aja Hotel Lounge
 
 inspirations:
   - source: '/meetup/insp_0.jpg'
