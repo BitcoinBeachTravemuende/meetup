@@ -3,7 +3,7 @@ layout: false
 
 content:
   - title: What's about
-    text: Bitcoin Beach Travemünde Meetup is a free organized meetup in Lübeck-Travemünde for anybody who is interested in Bitcoin. Everybody is welcome!
+    text: Bitcoin Beach Travemünde Meetup is a free organized meetup in Lübeck-Travemünde for anybody who is interested in Bitcoin. You are cordially invited to follow the adaption live on Germany's first Bitcoin Beach. You can actively participate in projects from Plep for Pleps, wheter books, code or hardware. Everyone is welcome - no matter what age. We guarantee a unique view and people with vision. We are an open soure meetup. Come by and become a part of it. Include your proof of work. 
   - title: Who
     text: Hodler, Trader, Noobies, Techies, Devs, ice-bath lovers, you?
   - title: Next meetup
