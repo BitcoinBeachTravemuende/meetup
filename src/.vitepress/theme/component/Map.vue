@@ -34,6 +34,8 @@ onMounted(async () => {
       iconAnchor:   [24, 24], 
     });
 
+    // 53.961729 10.883855
+    // https://github.com/Einundzwanzig-Podcast/einundzwanzig.space/pull/172#issuecomment-1608985117
     L.marker([53.9615, 10.8831], { icon }).addTo(map).openPopup()
   })
 
