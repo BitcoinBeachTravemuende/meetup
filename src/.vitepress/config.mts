@@ -81,10 +81,6 @@ export default defineConfig({
         link: "https://snort.social/p/npub1ftluznzkjgjm9gwxurg0nxyjlxdh2yvl0rhfmey4er3h6ap2jqyqh8areq",
       },
       {
-        icon: "twitter",
-        link: "https://twitter.com/BTravemuende",
-      },
-      {
         // 21 logo grabbed from https://github.com/BitcoinBeachTravemuende/media/blob/main/logos/21quad%2Blogo%2Btext_inkscape.svg
         icon: {
           svg: `<svg
