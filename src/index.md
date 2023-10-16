@@ -35,5 +35,5 @@ Hodler, Trader, Noobies, Techies, Devs, Eisbader, Du?
 
 ## TECH-Meetup
 
-- 28\. Oktober 2023, 18:00 Uhr
+- 25\. Oktober 2023, 18:00 Uhr
 - Granat Grillhouse, Kurgartenstr. 133, Lübeck-Travemünde
