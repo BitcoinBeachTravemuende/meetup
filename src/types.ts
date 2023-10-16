@@ -6,3 +6,8 @@ export type LocaleConfig = {
 };
 
 export type ThemeConfig = LocaleSpecificConfig<DefaultTheme.Config & LocaleConfig>
+
+export type TextContent = {
+  title: string
+  text: string
+}
