@@ -3,7 +3,6 @@ import { useData } from 'vitepress'
 import VPSwitchAppearance from 'vitepress/dist/client/theme-default/components/VPSwitchAppearance.vue'
 import VPNavBarTranslations from 'vitepress/dist/client/theme-default/components/VPNavBarTranslations.vue'
 import VPSocialLinks from 'vitepress/dist/client/theme-default/components/VPSocialLinks.vue'
-import TextContents from './component/TextContents.vue'
 import Inspirations from './component/Inspirations.vue'
 import Map from './component/Map.vue'
 
@@ -32,7 +31,7 @@ const { theme, frontmatter: fm } = useData()
       
       <div class=" bg-white dark:bg-gray-700 mx-2 rounded-md flex-grow pb-12 mb-2">
 
-        <TextContents v-if="fm.content" :contents="fm.content" class="w-full px-8" />
+        <Content class="w-full px-8 content" />
 
         <Map class="mt-6" />
         

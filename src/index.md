@@ -1,14 +1,6 @@
 ---
 layout: false
 
-content:
-  - title: Was
-    text: Bitcoin Beach Travemünde Meetup ist ein freies Treffen in Lübeck-Travemünde für alle Bitcoin-Interessenten. Ihr seit herzlich dazu eingeladen, die Adaption live am ersten Bitcoin Beach Deutschlands mitzuverfolgen. Ihr könnt euch aktiv an Projekten von Pleps für Pleps beteiligen, egal ob Bücher, Code oder Hardware. Jeder ist willkommen - egal welchen Alters. Wir garantieren einen einmaligen Ausblick und Menschen mit Weitblick. Wir sind ein open source Meetup. Komm vorbei und werde ein Teil davon. Bringe dein "Proof of Work" mit ein.
-  - title: Wer
-    text: Hodler, Trader, Noobies, Techies, Devs, Eisbader, Du?
-  - title: Nächstes Meetup
-    text: 14. Oktober 2023, 19:00 Uhr, aja Hotel Lounge
-
 inspirations:
   - source: '/meetup/insp_0.jpg'
     alt: 'Erstes Meetup am 01.07.2023'
@@ -23,3 +15,25 @@ inspirations:
   - source: '/meetup/insp_5.jpg'
     alt: 'Druckvorlage Travemünder Leuchtturm'
 ---
+
+# Was
+
+Bitcoin Beach Travemünde Meetup ist ein freies Treffen in Lübeck-Travemünde für alle Bitcoin-Interessierte. 
+
+Jeder ist willkommen. Ob zum Zuhören, Fragenstellen oder um aktiv an Bitcoin-Projekten (Bücher, Soft- oder Hardware) mitzuarbeiten. 
+
+# Wer
+
+Hodler, Trader, Noobies, Techies, Devs, Eisbader, Du?
+
+# Termine
+
+## Allgemeines Meetup
+
+- 04\. November 2023, 18:00 Uhr (Eisbaden 17:30 Uhr)
+- aja Hotel Lounge, Lübeck-Travemünde
+
+## TECH-Meetup
+
+- 28\. Oktober 2023, 18:00 Uhr
+- Granat Grillhouse, Kurgartenstr. 133, Lübeck-Travemünde
