@@ -22,7 +22,7 @@ const { theme, frontmatter: fm } = useData()
             <VPSwitchAppearance   />
         </nav>
         <a class="absolute right-0 bottom-2 py-1 px-2 bg-white"
-          href="https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bitcoin-beach-travemuende-meetup?l=de">
+          href="https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bitcoin-beach-travemuende-meetup">
           <img src="/21logo.svg" class="h-4 " />
         </a>
       </div>
