@@ -27,9 +27,6 @@ const { theme, frontmatter: fm } = useData()
         </a>
       </div>
 
-      <!-- <div class="bg-white w-full flex justify-center py-4 px-8">
-        <img src="/21logo.svg" class="" />
-      </div> -->
       <div class="bg-black w-full flex justify-center py-4 px-8">
         <img src="/logo_black.svg" class="" />
       </div>
