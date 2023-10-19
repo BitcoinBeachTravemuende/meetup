@@ -155,7 +155,7 @@ export default defineConfig({
          </g>
        </svg>`
         },
-        link: "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bitcoin-beach-travemuende-meetup?l=de",
+        link: "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bitcoin-beach-travemuende-meetup",
       },
     ]
   },
