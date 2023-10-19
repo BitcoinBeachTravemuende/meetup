@@ -21,9 +21,13 @@ const { theme, frontmatter: fm } = useData()
             <VPNavBarTranslations class="!flex !items-center h-4" />
             <VPSwitchAppearance   />
         </nav>
+        <a class="absolute right-0 bottom-2 py-1 px-2 bg-white"
+          href="https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bitcoin-beach-travemuende-meetup">
+          <img src="/21logo.svg" class="h-4 " />
+        </a>
       </div>
 
-      <div class="bg-black w-full flex justify-center py-4 px-8 ">
+      <div class="bg-black w-full flex justify-center py-4 px-8">
         <img src="/logo_black.svg" class="" />
       </div>
 
