@@ -33,8 +33,6 @@ export default defineConfig({
     [ 'meta', { name: 'msapplication-TileImage', content: '/meetup/mstile-144x144.png' } ],
     [ 'meta', { name: 'application-name', content: 'Bitcoin Beach Travemünde Meetup' } ],
     [ 'meta', { property: 'og:site', content: 'website' } ],
-    [ 'meta', { name: 'twitter:card', content: 'summary_large_image' } ],
-    [ 'meta', { name: 'twitter:creator', content: '@BTravemuende' } ],
   ],
   locales: {
     root: {
@@ -109,13 +107,6 @@ export default defineConfig({
           </svg>`,
         },
         link: "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhejn2gVIqNU6xjtGM3OwQeuk8ZEbDXVJXAlnSBJBWUA%3D%40smp16.simplex.im%2FSY7cRr2JeRskr-Oi-bScqyt5QoCWId2Y%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAjYjJ8pkCsBeom93ScqgktQ8mf7sZ5nQ1fkErrVGRnHw%253D%26srv%3Dp3ktngodzi6qrf7w64mmde3syuzrv57y55hxabqcq3l5p6oi7yzze6qd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22KFej-ujeVAb7UXBsU6JeWg%3D%3D%22%7D",
-      },
-      {
-        // Telegram
-        icon: {
-          svg: '<svg fill="#000000" width="800px" height="800px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Telegram</title><path d="m12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12c0-6.627-5.373-12-12-12zm5.894 8.221-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.446 1.394c-.14.18-.357.295-.6.295-.002 0-.003 0-.005 0l.213-3.054 5.56-5.022c.24-.213-.054-.334-.373-.121l-6.869 4.326-2.96-.924c-.64-.203-.658-.64.135-.954l11.566-4.458c.538-.196 1.006.128.832.941z"/></svg>',
-        },
-        link: "https://t.me/BitcoinBeachMeetupTravemuende",
       },
       {
         icon: "github",
