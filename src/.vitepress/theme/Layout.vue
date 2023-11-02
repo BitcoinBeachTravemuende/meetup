@@ -16,15 +16,11 @@ const { theme, frontmatter: fm } = useData()
     <div class="mx-auto h-full items-stretch flex flex-col max-w-[600px] bg-black rounded-lg ">
       
       <div class="relative ">
-        <img src="/beach.jpg" class="w-full rounded-t-lg" />
+        <img src="/header.jpg" class="w-full rounded-t-lg" />
         <nav class="absolute right-0 top-4 h-12 bg-white dark:bg-black rounded-l-xl flex items-center px-2 bg-opacity-50 dark:bg-opacity-40">
             <VPNavBarTranslations class="!flex !items-center h-4" />
             <VPSwitchAppearance   />
         </nav>
-        <a class="absolute right-0 bottom-2 py-1 px-2 bg-white"
-          href="https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bitcoin-beach-travemuende-meetup">
-          <img src="/21logo.svg" class="h-4 " />
-        </a>
       </div>
 
       <div class="bg-black w-full flex justify-center py-4 px-8">
