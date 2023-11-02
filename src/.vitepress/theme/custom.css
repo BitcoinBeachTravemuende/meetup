@@ -15,6 +15,11 @@ html.dark body {
   background-image: url('/wave-dark.svg');
   background-color: black;
 }
+/* icons footer */
+.VPSocialLink > svg {
+  width: 24px !important;
+  height: 24px !important;
+}
 
 @layer components {
 
@@ -32,6 +37,10 @@ html.dark body {
 
   .content p {
     @apply leading-5 pb-2;
+  }
+
+  .content ul a {
+    @apply hover:text-orange-400 underline pr-6 bg-external bg-no-repeat bg-right bg-contain; 
   }
 
   .ease {

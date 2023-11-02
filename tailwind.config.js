@@ -6,4 +6,11 @@ module.exports = {
 		'./src/**/*.md',
 	],
   darkMode: 'class',
+  theme: {
+    extend: {
+      backgroundImage: {
+        'external': "url('/icon-external.svg')",
+      }
+    }
+  }
 }

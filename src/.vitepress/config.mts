@@ -12,7 +12,7 @@ const deConfig: ThemeConfig = {
 const enConfig: ThemeConfig = {
   themeConfig: {
     contentImpressions: "Impressions",
-    footerBuiltWith: "Built with",
+    footerBuiltWith: "Made with",
     langMenuLabel: "Language",
   }
 }
@@ -146,7 +146,7 @@ export default defineConfig({
          </g>
        </svg>`
         },
-        link: "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bitcoin-beach-travemuende-meetup",
+        link: "https://portal.einundzwanzig.space/de/meetup/bitcoin-beach-luebeck-travemuende",
       },
     ]
   },
