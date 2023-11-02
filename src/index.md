@@ -46,6 +46,7 @@ Hodler, Noobies, Techies, Devs, Nostriches, Eisbader, Du?
 - 04\. November 2023, 17:45 Uhr
 - Konzertmuschel Brüggmanngarten, Lübeck-Travemünde
 - Film: Who is Bitcoin?
+- [Nostr Note](https://snort.social/nevent1qqs0eqnqkuldzx330tx4kwa4j40jzyuavrn34hck2mu293287g6np8sprfmhxue69uhkummnw3ezucm9wf3kzarjdamxztndv5hsygz2llq5c45jyke2r3hq6rue3yhend63r8mca6w7f9wgud7hg25spqpsgqqqqqqs6plfel)
 
 ## Bitcoin Pinguine
 
