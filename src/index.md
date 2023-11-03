@@ -36,7 +36,7 @@ Hodler, Noobies, Techies, Devs, Nostriches, Eisbader, Du?
 
 ## Allgemeines Meetup
 
-- 04\. November 2023, 18:00 Uhr (Eisbaden 17:30 Uhr)
+- 04\. November 2023, 18:00 Uhr
 - aja Hotel Lounge, Lübeck-Travemünde
 - Vortrag: Was ist Nostr?
 - [Nostr Note](https://snort.social/nevent1qqsqkzrgd49y0fvqhql3lts4cvt5qa5emd5y7x06hchpl5ff4ymlq3gppemhxue69uhkummn9ekx7mp0qgsy4l7pf3tfyfdj58rwp58enzf0nxm4zx0h3m5auj2u3cmaws4fqzqrqsqqqqqpuq2umk)

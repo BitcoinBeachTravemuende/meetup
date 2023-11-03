@@ -40,7 +40,7 @@ html.dark body {
   }
 
   .content ul a {
-    @apply hover:text-orange-400 underline pr-6 bg-external bg-no-repeat bg-right bg-contain; 
+    @apply relative hover:text-orange-400 pr-1 underline after:absolute after:top-[50%] after:right-0 after:-translate-x-[-100%] after:translate-y-[-50%] after:mask-[url('/icon-external.svg')] after:w-4 after:h-4 after:bg-gray-700 dark:after:bg-white hover:after:bg-orange-400 dark:hover:after:bg-orange-400 after:mask-size-contain; 
   }
 
   .ease {

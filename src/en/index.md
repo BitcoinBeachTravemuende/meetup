@@ -37,7 +37,7 @@ Hodler, Noobies, Techies, Devs,  Nostriches, Ice-bath lovers, you?
 
 ## General Meetup
 
-- November 4th 2023, 6pm (ice bath 5:30pm)
+- November 4th 2023, 6pm
 - aja Hotel Lounge, Lübeck-Travemünde
 - Talk: What is Nostr?
 - [Nostr note](https://snort.social/nevent1qqsqkzrgd49y0fvqhql3lts4cvt5qa5emd5y7x06hchpl5ff4ymlq3gppemhxue69uhkummn9ekx7mp0qgsy4l7pf3tfyfdj58rwp58enzf0nxm4zx0h3m5auj2u3cmaws4fqzqrqsqqqqqpuq2umk)
