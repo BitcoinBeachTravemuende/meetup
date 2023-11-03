@@ -1,11 +1,12 @@
 {
-  "type": "module",
+	"type": "module",
 	"scripts": {
 		"docs:dev": "vitepress dev src",
 		"docs:build": "vitepress build src",
 		"docs:preview": "vitepress preview src"
 	},
 	"devDependencies": {
+		"@pyncz/tailwind-mask-image": "^2.0.0",
 		"autoprefixer": "^10.4.16",
 		"postcss": "^8.4.31",
 		"tailwindcss": "^3.3.3",
