@@ -36,24 +36,24 @@ Bitcoiner, Hodler, Noobies, Techies, Devs, Nostriches, Eisbader, Du?
 
 ## Bitcoin Meetup
 
-- 02\. Dezember 2023, 19:00 Uhr
+- Samstag, 02. Dezember 2023, 19:00 Uhr
 - aja Hotel Lounge, Lübeck-Travemünde
 - Vortrag: MultiSig Basics
 
 ## Bitcoin Open-Air Kino
 
-- 02\. Dezember 2023, 17:00 Uhr
+- Samstag, 02. Dezember 2023, 17:00 Uhr
 - Konzertmuschel Brüggmanngarten, Lübeck-Travemünde
 - Film: Human B
 
 ## Bitcoin Pinguine
 
 - Eisbaden in der Ostsee
-- 02\. Dezember 2023, 16:30 Uhr
+- Samstag, 02. Dezember 2023, 16:30 Uhr
 - Treffpunkt: aja Hotel Eingang Bar, Lübeck-Travemünde
 
 ## Bitcoin TECH-Meetup
 
-- 15\. November 2023, 18:00 Uhr
+- Mittwoch, 15. November 2023, 18:00 Uhr
 - Granat Grillhouse, Kurgartenstr. 133, Lübeck-Travemünde
 - Thema: Entwicklung Bitcoin Spiel "Spirale"
