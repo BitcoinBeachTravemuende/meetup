@@ -27,7 +27,7 @@ inspirations:
 
 Bitcoin Beach Travemünde Meetup is a free organized meetup in Lübeck-Travemünde (Germany) on the Baltic Sea coast. 
 
-Everybody is welcome. Listen, and ask questions and make your hands dirty on building Bitcoin projects (books, software or hardware), Nostr or other Freedom Tech.
+Everybody is welcome. Listen, ask questions and make your hands dirty on building Bitcoin projects (books, software or hardware), Nostr or other Freedom Tech.
 
 # Who
 
