@@ -39,18 +39,21 @@ Bitcoiner, Hodler, Noobies, Techies, Devs, Nostriches, Eisbader, Du?
 - Samstag, 02. Dezember 2023, 19:00 Uhr
 - aja Hotel Lounge, Lübeck-Travemünde
 - Vortrag: MultiSig Basics
+- [Nostr Note](https://snort.social/nevent1qqsyhwpffxftrm4nr0dfv2tyv37kypzm92d3zhgfjmez32x2hu9tf9qpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyp90ls2v26fztv4pcmsdp7vcjtuekag3nauwa80yjhywxlt592gqsqcyqqqqqqgj3zylr)
 
 ## Bitcoin Open-Air Kino
 
 - Samstag, 02. Dezember 2023, 17:00 Uhr
 - Konzertmuschel Brüggmanngarten, Lübeck-Travemünde
 - Film: Human B
+- [Nostr Note](https://snort.social/nevent1qqsyhwpffxftrm4nr0dfv2tyv37kypzm92d3zhgfjmez32x2hu9tf9qpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyp90ls2v26fztv4pcmsdp7vcjtuekag3nauwa80yjhywxlt592gqsqcyqqqqqqgj3zylr)
 
 ## Bitcoin Pinguine
 
 - Eisbaden in der Ostsee
 - Samstag, 02. Dezember 2023, 16:30 Uhr
 - Treffpunkt: aja Hotel Eingang Bar, Lübeck-Travemünde
+- [Nostr Note](https://snort.social/nevent1qqsyhwpffxftrm4nr0dfv2tyv37kypzm92d3zhgfjmez32x2hu9tf9qpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyp90ls2v26fztv4pcmsdp7vcjtuekag3nauwa80yjhywxlt592gqsqcyqqqqqqgj3zylr)
 
 ## Bitcoin TECH-Meetup
 
