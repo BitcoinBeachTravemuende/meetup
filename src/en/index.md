@@ -2,23 +2,23 @@
 layout: false
 
 inspirations:
-  - source: '/meetup/insp_0.jpg'
+  - source: '/insp_0.jpg'
     alt: 'Guestbook'
-  - source: '/meetup/insp_1.jpg'
+  - source: '/insp_1.jpg'
     alt: 'Sticker'
-  - source: '/meetup/insp_2.jpg'
+  - source: '/insp_2.jpg'
     alt: 'Bitcoin Beach'
-  - source: '/meetup/insp_3.jpg'
+  - source: '/insp_3.jpg'
     alt: 'Somewhere in nowhere'
-  - source: '/meetup/insp_4.jpg'
+  - source: '/insp_4.jpg'
     alt: 'Meetup at aja lounge'
-  - source: '/meetup/insp_5.jpg'
+  - source: '/insp_5.jpg'
     alt: 'Ready to print: Lighthouse Travemuende'
-  - source: '/meetup/insp_6.jpg'
+  - source: '/insp_6.jpg'
     alt: 'Bitcoin on Lighthouse'
-  - source: '/meetup/insp_7.jpg'
+  - source: '/insp_7.jpg'
     alt: 'POS Bitcoinize machines'
-  - source: '/meetup/insp_8.jpg'
+  - source: '/insp_8.jpg'
     alt: 'Test run open-air cinema'
 
 ---

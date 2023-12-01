@@ -29,7 +29,7 @@ onMounted(async () => {
     // Custom icon
     // https://leafletjs.com/examples/custom-icons/
     var icon = L.icon({
-      iconUrl: '/meetup/btc.svg',
+      iconUrl: '/btc.svg',
       iconSize:     [48, 48], 
       iconAnchor:   [24, 24], 
     });
