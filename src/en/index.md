@@ -55,9 +55,3 @@ Hodler, Noobies, Techies, Devs,  Nostriches, Ice-bath lovers, you?
 - Saturday 2nd December 2023 at 4:30pm
 - Meeting point: In front of aja Hotel bar, Lübeck-Travemünde
 - [Nostr note](https://snort.social/nevent1qqsyhwpffxftrm4nr0dfv2tyv37kypzm92d3zhgfjmez32x2hu9tf9qpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyp90ls2v26fztv4pcmsdp7vcjtuekag3nauwa80yjhywxlt592gqsqcyqqqqqqgj3zylr)
-
-## Bitcoin TECH-Meetup
-
-- Wednesday 15th November 2023 at 6pm
-- Granat Grillhouse, Kurgartenstr. 133, Lübeck-Travemünde
-- Topic: Development of Bitcoin game "Spirale"
