@@ -6,6 +6,5 @@ import Layout from './Layout.vue'
 export default {
   extends: DefaultTheme,
   Layout,
-  enhanceApp({ app, router, siteData }) {
-  }
+  enhanceApp() {}
 }

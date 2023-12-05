@@ -1,24 +1,50 @@
 {
-	"type": "module",
-	"scripts": {
-		"docs:dev": "vitepress dev src",
-		"docs:build": "vitepress build src",
-		"docs:preview": "vitepress preview src"
-	},
-	"devDependencies": {
-		"@pyncz/tailwind-mask-image": "^2.0.0",
-		"autoprefixer": "^10.4.16",
-		"postcss": "^8.4.31",
-		"tailwindcss": "^3.3.3",
-		"vitepress": "1.0.0-rc.20"
-	},
-	"postcss": {
-		"plugins": {
-			"tailwindcss": {},
-			"autoprefixer": {}
-		}
-	},
-	"dependencies": {
-		"leaflet": "^1.9.4"
-	}
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev src",
+    "docs:build": "vitepress build src",
+    "docs:preview": "vitepress preview src",
+    "format": "prettier --check --write .",
+    "format:fail": "prettier --check .",
+    "lint": "eslint -c .eslintrc.cjs --ignore-path .eslintignore"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  },
+  "devDependencies": {
+    "@pyncz/tailwind-mask-image": "^2.0.0",
+    "@types/leaflet": "^1.9.8",
+    "@typescript-eslint/eslint-plugin": "^6.13.2",
+    "@typescript-eslint/parser": "^6.13.2",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.55.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-standard-with-typescript": "^40.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0 || ^16.0.0 ",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-sort-exports": "^0.8.0",
+    "eslint-plugin-vue": "^9.19.2",
+    "postcss": "^8.4.32",
+    "prettier": "^3.1.0",
+    "simple-git-hooks": "^2.9.0",
+    "tailwindcss": "^3.3.6",
+    "typescript": "^5.3.2",
+    "vitepress": "1.0.0-rc.31",
+    "vue": "^3.3.8"
+  },
+  "postcss": {
+    "plugins": {
+      "tailwindcss": {},
+      "autoprefixer": {}
+    }
+  },
+  "simple-git-hooks": {
+    "pre-commit": "npx lint-staged"
+  },
+  "lint-staged": {
+    "*.{[jt]s?(x),vue,md}": [
+      "eslint --cache --fix"
+    ]
+  }
 }

@@ -20,22 +20,19 @@ inspirations:
     alt: 'POS Bitcoinize machines'
   - source: '/insp_8.jpg'
     alt: 'Test run open-air cinema'
-
 ---
 
 # About
 
-Bitcoin Beach Travemünde Meetup is a free organized meetup in Lübeck-Travemünde (Germany) at the Baltic Sea. 
+Bitcoin Beach Travemünde Meetup is a free organized meetup in Lübeck-Travemünde (Germany) at the Baltic Sea.
 
 Everybody is welcome! Listen, ask questions or make your hands dirty by building open-source Bitcoin projects (books, software or hardware) together with other Bitcoiners.
 
 # Who
 
-Bitcoiners, Hodler, Noobies, Techies, Devs,  Nostriches, Ice-bath lovers, you?
+Bitcoiners, Hodler, Noobies, Techies, Devs, Nostriches, Ice-bath lovers, you?
 
-# Dates
-
-## Bitcoin Meetup
+# Meetup
 
 - Saturday 6nd January 2024 at 6pm
 - aja Hotel Lounge, Lübeck-Travemünde

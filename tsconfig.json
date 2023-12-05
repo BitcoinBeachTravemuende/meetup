@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "noUnusedLocals": false,
+    "resolveJsonModule": true,
+    "verbatimModuleSyntax": true,
+    "jsx": "preserve",
+    "lib": ["esnext", "dom", "dom.iterable"],
+    "types": ["vitepress"]
+  },
+  "include": ["src/*.ts", "src/.vitepress/**/*.ts", "src/.vitepress/**/*.vue"],
+  "exclude": ["src/.vitepress/dist", "node_modules"]
+}
