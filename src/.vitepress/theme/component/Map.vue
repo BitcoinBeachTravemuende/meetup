@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import 'leaflet/dist/leaflet.css'
 
-import { ref, onMounted } from 'vue'
+import { ref, onMounted, defineProps } from 'vue'
 
 const _ = defineProps<{
   class?: string
