@@ -1,12 +1,11 @@
-
 <!-- 
   Similar to VPNavBarTranslations, but without the icon (which is in chineese only)
   https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/components/VPNavBarTranslations.vue
 -->
 
 <script lang="ts" setup>
-
 import { useData } from 'vitepress'
+// @ts-expect-error
 import { useLangs } from 'vitepress/dist/client/theme-default/composables/langs'
 import VPMenuLink from 'vitepress/dist/client/theme-default/components/VPMenuLink.vue'
 import VPFlyout from 'vitepress/dist/client/theme-default/components/VPFlyout.vue'
@@ -16,10 +15,7 @@ const { localeLinks, currentLang } = useLangs({ correspondingLink: true })
 </script>
 
 <template>
-  <VPFlyout
-    v-if="localeLinks.length && currentLang.label"
-    :label="theme.langMenuLabel || 'Change language'"
-  >
+  <VPFlyout v-if="localeLinks.length && currentLang.label" :label="theme.langMenuLabel || 'Change language'">
     <div class="items">
       <p class="pr-2 pl-1 font-md">{{ currentLang.label }}</p>
 
@@ -31,8 +27,6 @@ const { localeLinks, currentLang } = useLangs({ correspondingLink: true })
 </template>
 
 <style scoped>
-
-
 .title {
   padding: 0 24px 0 12px;
   line-height: 32px;

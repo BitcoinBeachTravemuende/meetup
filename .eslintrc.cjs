@@ -21,8 +21,10 @@ module.exports = {
   },
   plugins: ['vue'],
   rules: {
+    'sort-exports/sort-exports': ['error', { sortDir: 'asc', sortExportKindFirst: 'type' }],
     '@typescript-eslint/no-unused-vars': 'error',
     '@typescript-eslint/consistent-type-definitions': ['error', 'type'],
+    '@typescript-eslint/consistent-type-imports': 'error',
     '@typescript-eslint/no-unused-vars': ['error', { argsIgnorePattern: '^_', argsIgnorePattern: '^_' }]
   }
 }

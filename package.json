@@ -4,15 +4,16 @@
     "docs:dev": "vitepress dev src",
     "docs:build": "vitepress build src",
     "docs:preview": "vitepress preview src",
-    "format": "prettier --check --write --ignore-path .gitignore .",
-    "format:fail": "prettier --check --ignore-path .gitignore .",
-    "lint": "eslint -c .eslintrc.cjs --ignore-path .gitignore"
+    "format": "prettier --check --write .",
+    "format:fail": "prettier --check .",
+    "lint": "eslint -c .eslintrc.cjs --ignore-path .eslintignore"
   },
   "dependencies": {
     "leaflet": "^1.9.4"
   },
   "devDependencies": {
     "@pyncz/tailwind-mask-image": "^2.0.0",
+    "@types/leaflet": "^1.9.8",
     "@typescript-eslint/eslint-plugin": "^6.13.2",
     "@typescript-eslint/parser": "^6.13.2",
     "autoprefixer": "^10.4.16",
@@ -22,6 +23,7 @@
     "eslint-plugin-import": "^2.25.2",
     "eslint-plugin-n": "^15.0.0 || ^16.0.0 ",
     "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-sort-exports": "^0.8.0",
     "eslint-plugin-vue": "^9.19.2",
     "postcss": "^8.4.32",
     "prettier": "^3.1.0",

@@ -1,9 +1,11 @@
 <script setup lang="ts">
-
-withDefaults(defineProps<{
-  title: string
-  class?: string
-}>(), {class: ''})
+withDefaults(
+  defineProps<{
+    title: string
+    class?: string
+  }>(),
+  { class: '' }
+)
 </script>
 
 <template>

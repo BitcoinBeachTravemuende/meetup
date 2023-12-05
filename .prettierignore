@@ -1,5 +1,9 @@
 node_modules/
 
+.prettierignore
+
+pnpm-lock.yaml
+
 .direnv
 
 src/.vitepress/cache/

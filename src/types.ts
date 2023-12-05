@@ -1,9 +1,9 @@
-import { DefaultTheme, LocaleSpecificConfig } from "vitepress";
+import type { DefaultTheme, LocaleSpecificConfig } from 'vitepress'
 
 export type LocaleConfig = {
-  contentImpressions: string;
-  footerBuiltWith: string;
-};
+  contentImpressions: string
+  footerBuiltWith: string
+}
 
 export type ThemeConfig = LocaleSpecificConfig<DefaultTheme.Config & LocaleConfig>
 
