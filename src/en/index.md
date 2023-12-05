@@ -32,9 +32,7 @@ Everybody is welcome! Listen, ask questions or make your hands dirty by building
 
 Bitcoiners, Hodler, Noobies, Techies, Devs, Nostriches, Ice-bath lovers, you?
 
-# Dates
-
-## Bitcoin Meetup
+# Meetup
 
 - Saturday 6nd January 2024 at 6pm
 - aja Hotel Lounge, Lübeck-Travemünde
