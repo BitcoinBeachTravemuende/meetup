@@ -36,3 +36,4 @@ Bitcoiners, Hodler, Noobies, Techies, Devs, Nostriches, Ice-bath lovers, you?
 
 - Saturday 6nd January 2024 at 6pm
 - aja Hotel Lounge, Lübeck-Travemünde
+- Talk: Understanding Lightning
