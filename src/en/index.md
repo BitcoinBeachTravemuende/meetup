@@ -32,8 +32,17 @@ Everybody is welcome! Listen, ask questions or make your hands dirty by building
 
 Bitcoiners, Hodler, Noobies, Techies, Devs, Nostriches, Ice-bath lovers, you?
 
-# Meetup
+# Dates
+
+## Bitcoin Meetup
 
 - Saturday 6nd January 2024 at 6pm
 - aja Hotel Lounge, Lübeck-Travemünde
 - Talk: Understanding Lightning
+
+## Bitcoin Penguins
+
+- Ice-bath in the Baltic Sea
+- Saturday 6nd January 2024 at 5:30pm
+- Meeting point: Beach promenade, aja Hotel, Lübeck-Travemünde
+- [Nostr Note](https://snort.social/nevent1qqs9glu2hyzcm2jqc5cw34cltj5gkjq0wcjau2kunj62lteqs33g39cpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtczyp90ls2v26fztv4pcmsdp7vcjtuekag3nauwa80yjhywxlt592gqsqcyqqqqqqgdzc8mv)
