@@ -36,11 +36,6 @@ Bitcoiner, Hodler, Noobies, Techies, Devs, Nostriches, Eisbader, Du?
 
 ## Bitcoin Meetup
 
-- Samstag, 03. Februar 2024, 18:00 Uhr
+- Samstag, 02. März 2024, 18:00 Uhr
 - aja Hotel Lounge, Lübeck-Travemünde
-
-## Bitcoin Pinguine
-
-- Winterbaden in der Ostsee
-- Samstag, 03. Februar 2024, 17:30 Uhr
-- Treffpunkt: Strandpromenade, aja Hotel, Lübeck-Travemünde
+- [Nostr Note](https://primal.net/e/note16tkdwk7dlks9h5cgxp420ea2knlu72064fd23200xq0tyhsa9kestx68qp)

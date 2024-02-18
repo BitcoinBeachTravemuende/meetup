@@ -36,11 +36,6 @@ Bitcoiners, Hodler, Noobies, Techies, Devs, Nostriches, Ice-bath lovers, you?
 
 ## Bitcoin Meetup
 
-- Saturday 3nd February 2024 at 6pm
+- Saturday 2nd March 2024 at 6pm
 - aja Hotel Lounge, Lübeck-Travemünde
-
-## Bitcoin Penguins
-
-- Ice-bath in the Baltic Sea
-- Saturday 3nd February 2024 at 5:30pm
-- Meeting point: Beach promenade, aja Hotel, Lübeck-Travemünde
+- [Nostr note](https://primal.net/e/note16tkdwk7dlks9h5cgxp420ea2knlu72064fd23200xq0tyhsa9kestx68qp)
