@@ -1,5 +1,6 @@
 ---
 layout: false
+title: 'BBT'
 
 inspirations:
   - source: '/insp_0.jpg'
@@ -26,7 +27,7 @@ inspirations:
 
 Bitcoin Beach Travemünde Meetup ist ein freies Treffen in Lübeck-Travemünde an der Ostseeküste für alle Bitcoin Interessierten.
 
-Jeder ist willkommen! Ob zum Zuhören, Fragenstellen oder bei der Mitarbeit an Open-Source Bitcoin Projekten (Bücher, Soft- oder Hardware) zusammen mit anderen Bitcoiner.
+Jeder ist willkommen! Ob zum Zuhören, Fragenstellen oder bei der Mitarbeit an Open-Source Bitcoin Projekten (Bücher, Soft- oder Hardware) zusammen mit anderen Bitcoinern.
 
 # Wer
 
@@ -36,6 +37,6 @@ Bitcoiner, Hodler, Noobies, Techies, Devs, Nostriches, Eisbader, Du?
 
 ## Bitcoin Meetup
 
-- Samstag, 02. März 2024, 18:00 Uhr
+- Samstag, 6. April 2024, 18:00 Uhr
 - aja Hotel Lounge, Lübeck-Travemünde
-- [Nostr Note](https://primal.net/e/note16tkdwk7dlks9h5cgxp420ea2knlu72064fd23200xq0tyhsa9kestx68qp)
+- [Nostr Note](https://primal.net/e/note1vgd7qh9xpxk4ppc8j0aezew7muldtlu8ws0yeqrje890wd3a5fmquahnh2)

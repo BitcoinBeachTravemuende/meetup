@@ -1,5 +1,6 @@
 ---
 layout: false
+title: 'BBT'
 
 inspirations:
   - source: '/insp_0.jpg'
@@ -36,6 +37,6 @@ Bitcoiners, Hodler, Noobies, Techies, Devs, Nostriches, Ice-bath lovers, you?
 
 ## Bitcoin Meetup
 
-- Saturday 2nd March 2024 at 6pm
+- Saturday 6nd April 2024 at 6pm
 - aja Hotel Lounge, Lübeck-Travemünde
-- [Nostr note](https://primal.net/e/note16tkdwk7dlks9h5cgxp420ea2knlu72064fd23200xq0tyhsa9kestx68qp)
+- [Nostr note](https://primal.net/e/note1vgd7qh9xpxk4ppc8j0aezew7muldtlu8ws0yeqrje890wd3a5fmquahnh2)
