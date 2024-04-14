@@ -46,3 +46,8 @@ Bitcoiners, Hodler, Noobies, Techies, Devs, Nostriches, Ice-bath lovers, you?
 - Saturday 4nd May 2024 at 6pm
 - aja Hotel Lounge, Lübeck-Travemünde
 - [Nostr Note](https://primal.net/e/note1q52whg70ztwkn3fp03f4swwhw0mqvw8chqzwmz48epqg3m0fnphs7x60xc)
+
+## Bitcoin Meetup
+
+- Saturday 8nd June 2024 at 6pm
+- aja Hotel Lounge, Lübeck-Travemünde
