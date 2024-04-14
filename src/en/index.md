@@ -35,8 +35,14 @@ Bitcoiners, Hodler, Noobies, Techies, Devs, Nostriches, Ice-bath lovers, you?
 
 # Dates
 
+## Bitcoin boat trip
+
+- Saturday 4nd May 2024 at 5pm-6pm
+- Meeting point: 4:30pm, MS Hanse pier, Überseebrücke 2 (Travepromenade), Lübeck-Travemünde
+- [Details (Telegram)](https://t.me/BitcoinBeachMeetupTravemuende/796)
+
 ## Bitcoin Meetup
 
-- Saturday 6nd April 2024 at 6pm
+- Saturday 4nd May 2024 at 6pm
 - aja Hotel Lounge, Lübeck-Travemünde
-- [Nostr note](https://primal.net/e/note1vgd7qh9xpxk4ppc8j0aezew7muldtlu8ws0yeqrje890wd3a5fmquahnh2)
+- [Nostr Note](https://primal.net/e/note1q52whg70ztwkn3fp03f4swwhw0mqvw8chqzwmz48epqg3m0fnphs7x60xc)
