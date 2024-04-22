@@ -37,8 +37,9 @@ Bitcoiner, Hodler, Noobies, Techies, Devs, Nostriches, Eisbader, Du?
 
 ## Bitcoin Schiffsfahrt
 
-- Samstag, 4. Mai 2024, 17-18 Uhr
-- Treffpukt: 16:30 Uhr, Anleger MS Hanse, Überseebrücke 2 (Travepromenade), Lübeck-Travemünde
+- Samstag, 4. Mai 2024, 15:30-16:30 Uhr
+- Treffpukt: 15:00 Uhr, Anleger MS Hanse, Überseebrücke 2 (Travepromenade), Lübeck-Travemünde
+- Ticketverkauf (16 EUR) am Anleger
 - [Details (Telegram)](https://t.me/BitcoinBeachMeetupTravemuende/796)
 
 ## Bitcoin Meetup
