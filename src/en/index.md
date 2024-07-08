@@ -35,7 +35,6 @@ Bitcoiners, Hodler, Noobies, Techies, Devs, Nostriches, Ice-bath lovers, you?
 
 # Meetup
 
-- Saturday 7nd July 2024 at 6pm
+- Saturday 3nd August 2024 at 6pm
 - aja Hotel Lounge, Lübeck-Travemünde
-- [EINUNDZWANZIG Stammtisch](https://x.com/21Stammtisch) X-space live and on-site
-- [Nostr Note](https://primal.net/e/note12qkk37ejna7zx3d3u9l4qe8050hhh99z5trlqy9emr3syd8tvuyscp22ea)
+- [Nostr Note](https://primal.net/e/note1fe5mz9unq6xwwwtc3g43sy8l0e0y0ut897hwkh5cu7hyh9um2heqnm6jjy)

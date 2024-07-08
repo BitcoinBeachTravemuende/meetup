@@ -35,7 +35,6 @@ Bitcoiner, Hodler, Noobies, Techies, Devs, Nostriches, Eisbader, Du?
 
 # Treffen
 
-- Sonntag, 7. Juli 2024, 18:00 Uhr
+- Samstag, 3. August 2024, 18:00 Uhr
 - aja Hotel Lounge, Lübeck-Travemünde
-- [EINUNDZWANZIG Stammtisch](https://x.com/21Stammtisch) X-Space ab 20 Uhr LIVE vor Ort
-- [Nostr Note](https://primal.net/e/note12qkk37ejna7zx3d3u9l4qe8050hhh99z5trlqy9emr3syd8tvuyscp22ea)
+- [Nostr Note](https://primal.net/e/note1fe5mz9unq6xwwwtc3g43sy8l0e0y0ut897hwkh5cu7hyh9um2heqnm6jjy)
