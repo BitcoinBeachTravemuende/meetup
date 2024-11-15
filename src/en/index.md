@@ -35,6 +35,7 @@ Bitcoiners, Hodler, Noobies, Techies, Devs, Nostriches, Ice-bath lovers, you?
 
 # Meetup
 
-- Saturday 3nd August 2024 at 6pm
-- aja Hotel Lounge, Lübeck-Travemünde
-- [Nostr Note](https://primal.net/e/note1fe5mz9unq6xwwwtc3g43sy8l0e0y0ut897hwkh5cu7hyh9um2heqnm6jjy)
+- Saturday 7nd December 2024 at 6pm
+- Lübeck-Travemünde
+- Please register at [Telegram](https://t.me/BitcoinBeachMeetupTravemuende)
+- [Nostr Note](https://primal.net/e/note1dv4r5l7xhhw4vvk894lvskqdwg3dejxt2d0rkz8hsuwkgd2f4grqqsuz0f)
