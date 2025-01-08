@@ -20,6 +20,7 @@ const enConfig: ThemeConfig = {
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'de',
+  base: '/meetup/',
   appearance: true,
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
